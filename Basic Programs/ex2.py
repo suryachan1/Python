@@ -1,0 +1,10 @@
+a=5
+b='hai'
+c=4.65
+d=True
+e=2+6j
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
