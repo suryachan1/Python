@@ -26,10 +26,10 @@ def carshowroom():
                     while(True):
                         v=int(input('enter a option of variant of the TATA NANO cars given below:\n1.Petrol\n2.Diseal\n3.Back\n'))
                         if v==1:
-                            onroadprice(100000)
+                            onroadprice(1000000)
                             break
                         elif v==2:
-                            onroadprice(150000)
+                            onroadprice(2000000)
                             break
                         elif v==3:
                             break
@@ -39,10 +39,10 @@ def carshowroom():
                     while(True):
                         v=int(input('enter a option of variant of the TATA ALTROZ cars given below:\n1.Petrol\n2.Diseal\n3.Back\n'))
                         if v==1:
-                            onroadprice(500000)
+                            onroadprice(3000000)
                             break
                         elif v==2:
-                            onroadprice(550000)
+                            onroadprice(4000000)
                             break
                         elif v==3:
                             break
@@ -52,10 +52,10 @@ def carshowroom():
                     while(True):
                         v=int(input('enter a option of variant of the TATA HARRIER cars given below:\n1.Petrol\n2.Diseal\n3.Back\n'))
                         if v==1:
-                            onroadprice(2000000)
+                            onroadprice(50000000)
                             break
                         elif v==2:
-                            onroadprice(2050000)
+                            onroadprice(6000000)
                             break
                         elif v==3:
                             break
@@ -76,10 +76,10 @@ def carshowroom():
                     while(True):
                         v=int(input('enter a option of variant of the XUV700 cars given below:\n1.Petrol\n2.Diseal\n3.Back\n'))
                         if v==1:
-                            onroadprice(100000)
+                            onroadprice(1000000)
                             break
                         elif v==2:
-                            onroadprice(150000)
+                            onroadprice(2000000)
                             break
                         elif v==3:
                             break
@@ -89,10 +89,10 @@ def carshowroom():
                     while(True):
                         v=int(input('enter a option of variant of the BOLERO cars given below:\n1.Petrol\n2.Diseal\n3.Back\n'))
                         if v==1:
-                            onroadprice(500000)
+                            onroadprice(3000000)
                             break
                         elif v==2:
-                            onroadprice(550000)
+                            onroadprice(4000000)
                             break
                         elif v==3:
                             break
@@ -102,10 +102,10 @@ def carshowroom():
                     while(True):
                         v=int(input('enter a option of variant of the SCORPION cars given below:\n1.Petrol\n2.Diseal\n3.Back\n'))
                         if v==1:
-                            onroadprice(2000000)
+                            onroadprice(5000000)
                             break
                         elif v==2:
-                            onroadprice(2050000)
+                            onroadprice(6000000)
                             break
                         elif v==3:
                             break
@@ -127,10 +127,10 @@ def carshowroom():
                     while(True):
                         v=int(input('enter a option of variant of the URBAN cars given below:\n1.Petrol\n2.Diseal\n3.Back\n'))
                         if v==1:
-                            onroadprice(100000)
+                            onroadprice(1000000)
                             break
                         elif v==2:
-                            onroadprice(150000)
+                            onroadprice(2000000)
                             break
                         elif v==3:
                             break
@@ -140,10 +140,10 @@ def carshowroom():
                     while(True):
                         v=int(input('enter a option of variant of the ETHIOUS cars given below:\n1.Petrol\n2.Diseal\n3.Back\n'))
                         if v==1:
-                            onroadprice(500000)
+                            onroadprice(3000000)
                             break
                         elif v==2:
-                            onroadprice(550000)
+                            onroadprice(4000000)
                             break
                         elif v==3:
                             break
@@ -153,10 +153,10 @@ def carshowroom():
                     while(True):
                         v=int(input('enter a option of variant of the FORTUNER cars given below:\n1.Petrol\n2.Diseal\n3.Back\n'))
                         if v==1:
-                            onroadprice(2000000)
+                            onroadprice(50000000)
                             break
                         elif v==2:
-                            onroadprice(2050000)
+                            onroadprice(6000000)
                             break
                         elif v==3:
                             break
